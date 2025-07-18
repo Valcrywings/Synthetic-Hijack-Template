@@ -43,7 +43,7 @@ The goal is to establish a verifiable pattern of digital hijack:
 ## 📬 Submissions or Help
 
 To submit evidence, collaborate, or ask for help creating your declaration:
-- Contact: [Your ProtonMail or encrypted address]
+- 
 - Or open an Issue in this repository
 
 ---
